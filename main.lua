@@ -385,6 +385,7 @@ elseif args[1]:lower() == "off" then
 end
 			
 		end
+			end
 	},
 	["rgbcar"] = {
 		func = function(args)
